@@ -1,6 +1,6 @@
 # Squirrel_Tracker
   
-![Track Squirrels] (https://www.mentalfloss.com/article/586488/squirrel-census-counts-2373-squirrels-in-central-park)
+![Track Squirrels]("https://www.mentalfloss.com/article/586488/squirrel-census-counts-2373-squirrels-in-central-park")
 
 ## Track Squirrels with Ease!
 Squirel Tracker is a web application to keep track of all the known squirrels within The Central Park in New york. The application is based on 2018 Central Park Squirrel Census data and the users 
