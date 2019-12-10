@@ -14,30 +14,30 @@ Also, users can export the data in csv format with this command:
 `python manage.py export_squirrel_data /path/to/file.csv`
 
 ## Functions
-Map (App - 1)
+1. Map (App - 1)
 url: /map
 
 The map displays the location of squirrel sightings. You can see locations of around 1000 squirrels on the map.
 
-Sightings (App - 2)
+2. Sightings (App - 2)
 url: /sightings
 
 Lists all squirrel sightings with data about each sightings and  links to edit each sighting.
 
-Updation
+2.1. Updation
 url: sightings/<unique_squirrel_id>
 
 To view, edit and update a particular squirrel sighting.
 
-Adding a new Squirrel
+2.2 Adding a new Squirrel
 url: sightings/add
 
 Creates a new squirrel sighting. This gives the user an option to add specific details like location, actions and other squirrel charachteristics.
 
-Stats
+2.3 Stats
 url: sightings/stats
 
-Show general stats(Primary Fur Color, Shifts, Location) about the sightings
+Show general stats(Primary Fur Color, Shifts, Location, Calls) about the sightings
 
 ### Group Information
 Project Group 41, Section 2
