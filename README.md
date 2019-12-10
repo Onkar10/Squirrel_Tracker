@@ -46,4 +46,4 @@ Uni = [ok2294, msb2231]
 
 ### Link To App
 
-https://tools-for-analytics-256804.appspot.com
+https://tools-for-analytics-256804.appspot.com/map
